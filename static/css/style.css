@@ -133,7 +133,7 @@ html{
 /* Clients Section */
 #client-section{ 
     position: relative;
-    z-index: -1;
+    z-index: 0;
 }
 
 #client-section::before{
@@ -164,7 +164,7 @@ html{
 /* Contact Section */
 #contact{
     position: relative;
-    z-index: -1;
+    z-index: 0;
 }
 #contact::before{
     content: "";
